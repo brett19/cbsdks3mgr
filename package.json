@@ -1,0 +1,11 @@
+{
+  "name": "cbsdks3mgr",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/main.js",
+  "author": "Brett Lawson <brett19@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.0.0-rc.14"
+  }
+}
